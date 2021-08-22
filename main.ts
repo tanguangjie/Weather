@@ -7,7 +7,7 @@ class Car {
     }      
     // 方法
     disp():void { 
-       console.log(" 数:"+this.engine) 
+       console.log("    数:"+this.engine) 
     } 
  } 
   
